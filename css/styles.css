@@ -1,0 +1,39 @@
+
+#main{
+    background-color: #ccc;
+    width: 266px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.player{
+    border-color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    margin: 1px;
+    width: 128px;
+    height: 128px;
+    float: left;
+}
+#first-player{}
+#winner{
+    font-size: 15pt;
+    border-color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    margin: 1px;
+    width: 240px;
+    height: 128px;
+    float: left;
+    padding: 10px;
+}
+#play{
+    width: 240px;
+}
+.player-name{
+    width: 111px;
+}
+#result{
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: #aaa;
+}
