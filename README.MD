@@ -1,0 +1,6 @@
+# Training project of Dice Game (frontend part)
+## Instalation
+	* Download or clone it (maybe fork it). Point your browser to 
+		*index.html* file.
+	* Start backend part of Training Project.
+	* Enjoy !
